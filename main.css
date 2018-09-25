@@ -1,9 +1,9 @@
 body {
 	font-size: 20px;
 }
-.navbar-brand {
-  padding: 10px;
-  /*margin-left: 60px!important;*/
+
+.navbar-brand:hover {
+	color: #2f3542!important;
 }
 
 #latvstempimg {
@@ -34,6 +34,15 @@ body {
 	opacity: 0.5;
 }
 
+.clickable:hover {
+	opacity: 0.5;
+}
+
 .github-logo {
 	height: 25px;
 }
+
+.github-logo:hover {
+	opacity: 0.5;
+}
+
