@@ -26,10 +26,14 @@ body {
 
 .fixed-bottom {
 	background-color: #2f3542;
-	
-	height: 15px;
+	color: white;
+	padding: 10px;
 }
 
 .card a:hover {
 	opacity: 0.5;
+}
+
+.github-logo {
+	height: 25px;
 }
