@@ -1,0 +1,35 @@
+body {
+	font-size: 20px;
+}
+.navbar-brand {
+  padding: 10px;
+  /*margin-left: 60px!important;*/
+}
+
+#latvstempimg {
+	width: 400px;
+	margin-right: 5px;
+}
+
+.heading {
+	color: #1e90ff;
+}
+
+.card {
+	margin-top: 30px;
+	border-radius: 0 !important;
+}
+
+.current_graph {
+	border: 2px solid #2f3542;
+}
+
+.fixed-bottom {
+	background-color: #2f3542;
+	
+	height: 15px;
+}
+
+.card a:hover {
+	opacity: 0.5;
+}
